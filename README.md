@@ -1,5 +1,5 @@
 # Car
-The repository is created for my first scanIR_car based on Arduino
+The repository is created for my first scanIR_car based on Arduino.
 
 KeyWord: IR, OLED, MOTOR, PID, IIC, KEY
 Hardware Moudle: Arduino UNO, IR_scanBoard(Digital or Analogal),L298N
